@@ -1,0 +1,8 @@
+prefix=/home/jin/ros/take_picture_ws/install
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.4
+Cflags: -I/home/jin/ros/take_picture_ws/install/include
+Libs: -L/home/jin/ros/take_picture_ws/install/lib -lusb_cam
+Requires: 
