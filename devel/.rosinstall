@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jin/ros/take_picture_ws/devel/setup.sh
