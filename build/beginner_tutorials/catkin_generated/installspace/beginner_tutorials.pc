@@ -3,6 +3,6 @@ prefix=/home/jin/ros/take_picture_ws/install
 Name: beginner_tutorials
 Description: Description of beginner_tutorials
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/jin/ros/take_picture_ws/install/include
 Libs: -L/home/jin/ros/take_picture_ws/install/lib 
-Requires: 
+Requires: message_runtime
